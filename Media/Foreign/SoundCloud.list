@@ -1,0 +1,5 @@
+# > SoundCloud
+# 请注意，导入此规则将自动创建名为[SoundCloud]的策略组
+# - USER-AGENT,SoundCloud*,SoundCloud
+DOMAIN-SUFFIX,sndcdn.com,SoundCloud
+DOMAIN-SUFFIX,soundcloud.com,SoundCloud

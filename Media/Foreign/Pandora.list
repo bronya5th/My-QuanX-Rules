@@ -1,0 +1,4 @@
+# Pandora
+# 请注意，导入此规则将自动创建名为[Pandora]的策略组
+USER-AGENT,Pandora*,Pandora
+DOMAIN-SUFFIX,pandora.com,Pandora
